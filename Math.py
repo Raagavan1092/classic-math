@@ -545,4 +545,4 @@ class Vector:
 
 superscript = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
 if __name__ == "__main__":
-    v = Vector(9, 8, 8)
+    pass
